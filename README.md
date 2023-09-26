@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Job Recommendation system using ML and NLP](https://colab.research.google.com/drive/1D035L5hJjNyzcow9wAgv09IHr92hjZnc?authuser=3)
 
-- 🌱 I’m currently learning **Google Cloud**
+- 🌱 I’m currently learning **Google Data Analytics-Professional Certifications from Coursera**
 
 - 📫 How to reach me **tanush2207@gmail.com**
 
