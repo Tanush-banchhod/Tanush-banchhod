@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Google Data Analytics-Professional Certifications from Coursera**
 
-- 📫 How to reach me **tanush2207@gmail.com**
+- 📫 How to reach me **tanushbanchhod@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
