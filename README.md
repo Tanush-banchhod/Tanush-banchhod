@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanush Banchhod</h1>
-<h3 align="center">A passionate and Ambitious Computer Engineering Graduate</h3>
+<h3 align="center">Python/LLM Developer at Turing</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanush-banchhod&label=Profile%20views&color=0e75b6&style=flat" alt="tanush-banchhod" /> </p>
 
