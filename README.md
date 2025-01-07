@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanush-banchhod&label=Profile%20views&color=0e75b6&style=flat" alt="tanush-banchhod" /> </p>
 
-- 🔭 I’m currently working on [Job Recommendation system using ML and NLP](https://colab.research.google.com/drive/1D035L5hJjNyzcow9wAgv09IHr92hjZnc?authuser=3)
+- 🔭 I recently worked on building LLM-SQL-To-Text.
 
-- 🌱 I’m currently learning **Google Data Analytics-Professional Certifications from Coursera**
+- 🌱 I’m currently learning **Agentic AI**
 
 - 📫 How to reach me **tanushbanchhod@gmail.com**
 
