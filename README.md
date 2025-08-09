@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanush-banchhod&label=Profile%20views&color=0e75b6&style=flat" alt="tanush-banchhod" /> </p>
 
-- 🔭 I recently worked on building AutoInfra Ops: Automated DevOps pipeline that raise Jira/Slack Tickets.
+- 🔭 I recently worked on building AutoInfra Ops: Automated DevOps pipeline that raise Issues.
 
 - 🌱 I’m currently learning **Agentic AI**
 
